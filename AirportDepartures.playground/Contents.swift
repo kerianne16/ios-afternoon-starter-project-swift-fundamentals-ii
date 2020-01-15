@@ -166,6 +166,6 @@ func calculateAirfare(checkedBags: Int, distance: Int, travelers: Int) -> Double
     return sum
 }
 
-print(calculateAirfare(checkedBags: 2, distance: 2000, travelers: 3))
+print(calculateAirfare(checkedBags: 4, distance: 2000, travelers: 4))
 
 
